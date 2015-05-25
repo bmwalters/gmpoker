@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\strongbad\strongbad_legs"
+	"$bumpmap" "models\strongbad\flatnormal"
+	
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+
+	"$lightwarptexture" "models/strongbad/toonshade"
+
+
+}

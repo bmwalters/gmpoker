@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/PNATI/pokertable/ff896c97"
+                "$halflambert" 1
+                "$ambientocclusion" "1"
+	"$phong"			1
+	"$bumpmap"		"models/PNATI/pokertable/b2ca80b4"
+	"$phongexponent"		5		
+	"$phongexponenttexture"	 "models/PNATI/pokertable/410cd5b1"
+	"$phongboost"		1.0
+	"$phongfresnelranges"	"[0 0.5 1]"
+
+}
+
+

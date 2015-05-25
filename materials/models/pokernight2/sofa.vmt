@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\pokernight2\sofa"
+"$surfaceprop" "carpet"
+}

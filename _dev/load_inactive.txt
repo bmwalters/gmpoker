@@ -1,0 +1,14 @@
+{
+	"Name": "GMPoker",
+	"Version": "0.3",
+	"AddFiles": [
+		"194833894",
+		"109761816",
+		"402714718",
+		"resource/fonts/bello-script.ttf",
+		"resource/fonts/bello-smcp.ttf",
+		"resource/fonts/futura-lt-condensed-bold.ttf",
+		"resource/fonts/futura-lt-condensed-extra-bold.ttf",
+	],
+	//"Loader": "poker.lua"
+}

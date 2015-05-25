@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\tycho\tycho_head"
+	"$bumpmap" "models\tycho\flatnormal"
+	
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0"	
+
+	"$lightwarptexture" "models/tycho/toonshade"
+
+}

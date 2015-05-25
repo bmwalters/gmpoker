@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+$baseTexture "models\pokernight2\bottel_2"
+"$surfaceprop" "glass"
+}

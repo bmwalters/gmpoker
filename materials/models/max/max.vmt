@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/max/max"
+                "$halflambert" 1
+}

@@ -1,0 +1,7 @@
+"eyes"
+{
+//	"$basetexture" "models/tycho/tycho_eye"
+	"$iris" "models/tycho/tycho_eye"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

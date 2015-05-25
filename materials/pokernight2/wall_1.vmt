@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+    "$baseTexture" "pokernight2\wall_1"
+	"$surfaceprop" "paper"
+	"%keywords" "wasteland"
+
+	"$parallaxmap" "Wood/woodwall028a_height"
+	"$parallaxmapscale" ".035"
+}
