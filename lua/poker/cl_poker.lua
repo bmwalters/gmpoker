@@ -18,8 +18,6 @@ end
 
 local open = false
 
-local scrw, scrh = ScrW(), ScrH()
-
 local endw, endh = 95, 187
 local midw, midh = 1176, 131
 local btnw, btnh = 140, 46
@@ -77,6 +75,7 @@ local buttons = {
 local orangecolor = Color(164, 117, 63)
 local players = {"The Player", "Brock", "Claptrap", "Ash", "Sam"}
 function poker.OpenGUI()
+	local scrw, scrh = ScrW(), ScrH()
 	local main = vgui.Create("DPanel")
 	poker.pnl = main
 	open = true
@@ -203,6 +202,7 @@ end)
 
 local shoulddraw = {CHudHealth = false, CHudBattery = false, CHudAmmo = false}
 hook.Add("HUDShouldDraw", "PNATIHUD_Hide", function(element)
-	if not open then return end
-	return shoulddraw[element]
+	if open then
+		return shoulddraw[element]
+	end
 end)
